@@ -33,17 +33,17 @@ const Features = () => {
   }, []);
 
   return (
-    <section className="h-full common-padding bg-zinc relative overflow-hidden">
+    <section className="h-full bg-zinc relative overflow-hidden">
       <div className="screen-max-width">
-        <div className="mb-12 w-full">
+        <div className="mb-8 w-full">
           <h1 id="features_title" className="section-heading" align='center'>
             Explore The Full Story..
           </h1>
         </div>
         <div className="flex flex-col justify-ceter items-center overflow-hidden">
           <div className="mt-16 mb-24 pl-24">
-            <h2 className="text-5xl lg:text-7xl font-semibold">iPhone.</h2>
-            <h2 className="text-5xl lg:text-7xl font-semibold">
+            <h2 className="text-5xl lg:text-6xl font-semibold">iPhone.</h2>
+            <h2 className="text-5xl lg:text-8xl font-semibold">
               Forged in titanium.{" "}
             </h2>
           </div>
